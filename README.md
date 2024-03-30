@@ -59,8 +59,11 @@ To run json-server -  npm run json-server
 ![Screenshot 2024-03-30 170256](https://github.com/Dreamer122/React-CRUD-APP/assets/126068795/b84da7c6-188c-4c91-ac28-d842db4228fd)
 
 
+# App screenshots 
+![Screenshot (26)](https://github.com/Dreamer122/React-CRUD-APP/assets/126068795/28f89048-47d5-4616-85ec-80e2126890d1)
 
-
+![Screenshot (27)](https://github.com/Dreamer122/React-CRUD-APP/assets/126068795/67dfac01-ac19-4113-b0d4-3901bc1d3601)
+![Screenshot (28)](https://github.com/Dreamer122/React-CRUD-APP/assets/126068795/4468a169-0896-4867-8653-b44a162de0e4)
 
 
 
