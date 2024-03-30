@@ -1,0 +1,82 @@
+{
+  "Userdata": [
+    {
+      "id": "8",
+      "name": "Nicholas Runolf",
+      "username": "Maxime_Nieno",
+      "email": "Sherwood@gmail.com",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169",
+        "geo": {
+          "lat": "-14.3990",
+          "lng": "-120.7677"
+        }
+      },
+      "phone": "8907890056",
+      "website": "jacynthe.co",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Clementina Dulin",
+      "username": "Moriah.Stanton",
+      "email": "Rey.Padberg@gmail.com",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261",
+        "geo": {
+          "lat": "-38.2386",
+          "lng": "57.2232"
+        }
+      },
+      "phone": "01292345678",
+      "website": "ambrose.net",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    },
+    {
+      "id": "a99f",
+      "name": "jaya",
+      "username": "gulati",
+      "email": "jaya@gmail.com",
+      "website": "website.org",
+      "phone": "67890"
+    },
+    {
+      "id": "3878",
+      "name": "jiya",
+      "username": "jaya",
+      "email": "jiya@gmail.com",
+      "website": "gbhnjmk,",
+      "phone": "789906"
+    },
+    {
+      "id": "d128",
+      "name": "pooja",
+      "username": "p",
+      "email": "pooja@gamil.com",
+      "website": "fgh",
+      "phone": "45678980909"
+    },
+    {
+      "id": "bf4a",
+      "name": "pooja1",
+      "username": "pooj",
+      "email": "pooja1@gmail.com",
+      "website": "p.in",
+      "phone": "6789"
+    }
+  ]
+}
